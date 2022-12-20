@@ -20,9 +20,7 @@ I am an undergrad student at DAIICT <img src="https://media.giphy.com/media/WUlp
 
 - :seedling: Wandering in curiosity.
 
-- :zap: In my free time, I solve problems on Leetcode and codechef. I also like to read books. I love lofi and poetry. 
-
-- 🌃  Philosophical Mind after midnight.
+- :zap: In my free time, I solve problems on Leetcode,codeforces and codechef. I also like to read books. I love lofi and poetry. 
 
 ---
 
