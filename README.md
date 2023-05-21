@@ -15,12 +15,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am an undergrad student at DAIICT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I am greatly interested in Programming, Machine learning and Frontend web technologies.
+I am an gradutate student from DAIICT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I am greatly interested in Web Technologies and Machine Learning.
 
 - :seedling: Wandering in curiosity.
 
-- :zap: In my free time, I solve problems on Leetcode,codeforces and codechef. I also like to read books. I love lofi and poetry. 
+- :zap: In my free time, I like to read books. I love lofi and poetry. 
 
 ---
 
