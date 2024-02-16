@@ -18,7 +18,7 @@
 I am a gradutate student from DAIICT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I am greatly interested in Web Technologies and Machine Learning.
 
-- :seedling: Wandering in curiosity.
+- :seedling: Currently, I am learning, Idk everything maybe.
 
 - :zap: In my free time, I like to read books. I love lofi and poetry. 
 
